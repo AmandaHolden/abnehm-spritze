@@ -1,5 +1,7 @@
 # abnehm-spritze
 
+<img src="https://github.com/AmandaHolden/abnehm-spritze/blob/main/a.png"/>
+
 ***Noch immer hält der weltweite Hype um die Abnehmspritzen Ozempic und Wegovy an. Sie gelten als wissenschaftliche und wirtschaftliche Sensationen des Jahres. Dabei wurde ihr Wirkstoff, Semaglutid, ursprünglich für Diabetes-Patienten entwickelt***
 
 🔥 *Im Prinzip imitieren die Medikamente das Darm-Hormon Glucagon-like Peptide 1, kurz GLP-1, das die Produktion von Insulin im Körper steigert und ein Sättigungsgefühl vortäuscht, also den Hunger unterdrückt. Diese Art von Arzneimittel kann eingesetzt werden, um Typ-2-Diabetes zu behandeln sowie übergewichtigen und fettleibigen Patientinnen und Patienten beim Abnehmen zu helfen. Die Wirkstoffe werden durch wöchentliche Spritzen verabreicht. Pharmafirmen arbeiten derzeit daran, sie auch als Tabletten herzustellen, die täglich eingenommen werden können. "Das könnte die Adipositas-Behandlung revolutionieren", sagt der Präsident des Bundesverbands Deutscher Ernährungsmediziner, Johannes Wechsler. Innerhalb eines Jahres sind Gewichtsabnahmen von bis zu 20 Prozent des Körpergewichts möglich*
